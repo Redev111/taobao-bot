@@ -1,0 +1,8 @@
+python-telegram-bot 
+pillow 
+numpy 
+easyocr 
+requests 
+python-dotenv 
+httpx 
+torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu118  
